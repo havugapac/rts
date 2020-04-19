@@ -1,2 +1,0 @@
-# rts
-Created with CodeSandbox
